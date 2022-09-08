@@ -1,4 +1,4 @@
 - 👋 Hey, Myself Ashish Prajapati (A PROGRAMMER);
 - 🌱 Pursuing B.Tech. in Computer Science & Engineering;
 - 🌱 I’ve Knowledge related C, C++, Python, CSS, HTML, Django  ...;
-- 🌱 <Integrating My Differential Parts To Become A Significant Function>
+- 🌱 Integrating My Differential Parts To Become A Significant Function
