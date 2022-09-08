@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Ashish Prajapati
-- 🌱 I’m Undergradute B.Tech. CSE Student.
-- 🌱 I’ve learnt C, Python, CSS, HTML, Django  language ...
-- 🌱 I’M A PROGRAMMER.
-- 👀-> Currently, <Integrating My Differential Parts To Become
-A Significant Function...>
-
+- 👋 Hey, Myself Ashish Prajapati (A PROGRAMMER);
+- 🌱 Pursuing B.Tech. in Computer Science & Engineering;
+- 🌱 I’ve Knowledge related C, C++, Python, CSS, HTML, Django  ...;
+- 🌱 <Integrating My Differential Parts To Become A Significant Function>
