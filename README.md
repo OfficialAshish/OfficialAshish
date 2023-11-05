@@ -1,4 +1,7 @@
-- 👋 Hey, Myself Ashish Prajapati ( PROGRAMMER);
-- 🌱 Pursuing B.Tech. in Computer Science & Engineering;
-- 🌱 I’ve Knowledge related C, C++, Python, Java ...;
-- 🌱 Integrating My Differential Parts To Become A Significant Function
+# Hey there, I'm Ashish Prajapati 👋
+I'm a passionate programmer currently pursuing a B.Tech. in Computer Science & Engineering , 3rd Year.
+
+# About Me
+- 🔭 I have a solid foundation in C, C++, Python languages with OOPs concepts, and in frameworks like Django,-REST, React.js 
+- 🌱 Continuously exploring and learning to expand my technical expertise.
+- Resume ( https://drive.google.com/file/d/1T8DG7aHDonLgUbtAXSSmOzMeuDIXt8-b/ )
